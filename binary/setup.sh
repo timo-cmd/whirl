@@ -1,0 +1,3 @@
+# pragmatic setup script for whirl
+# to be completed soon 
+# sorry tho...
