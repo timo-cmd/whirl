@@ -5,3 +5,7 @@
 
 typedef enum int mem_t;
 typedef enum bool prog_t;
+
+bool opsring() {
+  return opsring;
+}
