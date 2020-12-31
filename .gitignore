@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Binaries
+*.out
+*.exe
+
 # Object files
 *.o
 *.ko
