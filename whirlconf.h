@@ -5,3 +5,5 @@
 #define DEFAULT_OPSRING  0
 #define DEFAULT_MATHRING 0
 #define DEFAULT_STACK 0
+
+#define AUTHOR "TIMO SARKAR"
