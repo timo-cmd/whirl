@@ -1,2 +1,2 @@
 # whirl
-The C99 implementation of the Whirl programming language
+The C99 implementation of the Whirl programming language built by Timo Sarkar
